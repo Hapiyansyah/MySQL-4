@@ -28,34 +28,34 @@
 
 7. Tampilkan gaji terkecil !
 
-![foto7](foto/foto7.png)
+![foto8](foto/foto8.png)
 
 8. Tampilkan gaji terbesar !
 
-![foto8](foto/foto8.png)
+![foto7](foto/foto7.png)
 
 ## 4.2 TABEL HEWAN
 
 1. Tampilkan jumlah hewan yang dimiliki setiap owner !
 
-b
+![foto1b](foto/foto1b.png)
 
 2. Tampilkan jumlah hewan berdasarkan spesies !
 
-b
+![foto2b](foto/foto2b.png)
 
 3. Tampilkan jumlah hewan berdasarkan jenis kelamin !
 
-b
+![foto3b](foto/foto3b.png)
 
 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin !
 
-b
+![foto4b](foto/foto4b.png)
 
 5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog) dan jenis kelamin !
 
-b
+![foto5b](foto/foto5b.png)
 
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja !
 
-b
+![foto6b](foto/foto6b.png)
