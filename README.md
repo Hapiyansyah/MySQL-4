@@ -8,31 +8,31 @@
 
 2. Tampilkan pegawai yang tunjangannya NULL !
 
-a
+![foto2](foto/foto2.png)
 
 3. Tampilkan pegawai yang tunjangannya NOT NULL !
 
-a
+![foto3](foto/foto3.png)
 
 4. Tampilkan / hitung jumlah baris / record tabel pegawai !
 
-a
+![foto4](foto/foto4.png)
 
 5. Tampilkan / hitung jumlah total gaji ditabel pegawai !
 
-a
+![foto5](foto/foto5.png)
 
 6. Tampilkan / hitung rata-rata gaji pegawai !
 
-a
+![foto6](foto/foto6.png)
 
 7. Tampilkan gaji terkecil !
 
-a
+![foto7](foto/foto7.png)
 
 8. Tampilkan gaji terbesar !
 
-a
+![foto8](foto/foto8.png)
 
 ## 4.2 TABEL HEWAN
 
