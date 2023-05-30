@@ -59,3 +59,7 @@
 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja !
 
 ![foto6b](foto/foto6b.png)
+
+## Kesimpulan 
+
+SOON !!!
